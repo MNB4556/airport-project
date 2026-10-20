@@ -23,7 +23,7 @@ A comprehensive Java application for managing airport flight departures. Develop
 ### Using Command Line:
 
 ```bash
-cd airport-project/src
+cd src
 javac *.java
 java AirportDepartureSystem
 ```
